@@ -1,6 +1,6 @@
 <body>
     <h1>🎙️ Internet Radio & Podcast Indexing Platform</h1>
-    <p><strong>Project by Mostafa Hassan & Mary Swy</strong></p>
+    <p><strong>Project by Mostafa Hassan & Mary Sowa</strong></p>
     <h2>📜 Project Objective</h2>
     <p>The Internet Radio & Podcast Indexing Platform is an academic project aimed at scanning the internet for free live radio channels and podcasts. The goal is to index them into a categorized index and present them on the app. The project will utilize Python for web scraping and Next.js 13 for the frontend application.</p>
     <h2>🐍 Python Web Scraping</h2>
