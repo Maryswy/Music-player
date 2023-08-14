@@ -1,5 +1,6 @@
-  <h1>🎙️ Internet Music & Podcast Platform</h1>
-    <p>Project by Mary & Mostafa</p>
+<body>
+    <h1>🎙️ Internet Radio & Podcast Platform</h1>
+    <p>Project by Mostafa Hassan & Mary Swy</p>
 
     <h2>📜 Project Charter</h2>
     <p>The Internet Radio & Podcast Platform aims to provide users with access to free internet radio channels and podcasts, along with interactive features. Built with Next.js 13, this platform focuses on modern web development practices.</p>
@@ -51,3 +52,4 @@
     📁 styles
     📁 tests
     </pre>
+</body>
