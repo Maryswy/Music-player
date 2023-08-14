@@ -1,28 +1,39 @@
 <body>
-    <h1>🎙️ Internet Radio & Podcast Platform</h1>
-    <p>Project by Mostafa Hassan & Mary Swy</p>
-    <h2>📜 Project Charter</h2>
-    <p>The Internet Radio & Podcast Platform aims to provide users with access to free internet radio channels and podcasts, along with interactive features. Built with Next.js 13, this platform focuses on modern web development practices.</p>
-    <h2>🎵 Features</h2>
+    <h1>🎙️ Internet Radio & Podcast Indexing Platform</h1>
+    <p><strong>Project by Mostafa Hassan & Mary Swy</strong></p>
+    <h2>📜 Project Objective</h2>
+    <p>The Internet Radio & Podcast Indexing Platform is an academic project aimed at scanning the internet for free live radio channels and podcasts. The goal is to index them into a categorized index and present them on the app. The project will utilize Python for web scraping and Next.js 13 for the frontend application.</p>
+    <h2>🐍 Python Web Scraping</h2>
     <ul>
-        <li>📻 Internet Radio Channels: Browse, favorite, and listen to free channels.</li>
-        <li>🎧 Podcast Streams: Explore, subscribe, and comment on podcasts.</li>
-        <li>👥 Social Interaction: Engage with other users through comments and ratings.</li>
+        <li>🕷️ <strong>Scrapy:</strong> For crawling and scraping data.</li>
+        <li>🧹 <strong>BeautifulSoup:</strong> For parsing HTML and extracting information.</li>
+        <li>📊 <strong>Pandas:</strong> For data manipulation and analysis.</li>
+        <li>💽 <strong>MongoDB:</strong> For storing the indexed data (can use a free tier).</li>
     </ul>
-    <h2>🗺️ Plan</h2>
+    <h2>🎙️ Categorized Index</h2>
+    <ul>
+        <li>🎵 Genre (Music, Talk, News, etc.)</li>
+        <li>🌍 Region (Country, Language)</li>
+        <li>🌟 Popularity (Top Rated, Trending)</li>
+    </ul>
+    <h2>📱 Next.js App</h2>
+    <ul>
+        <li>🔍 Search & Filter Options</li>
+        <li>📻 Live Radio Channel Streaming</li>
+        <li>🎧 Podcast Exploration</li>
+        <li>👥 User Engagement (Comments, Ratings)</li>
+    </ul>
+    <h2>📋 Backlog Tasks</h2>
     <ol>
-        <li>🏗️ Set Up Project Structure</li>
-        <li>🎨 Design UI/UX</li>
-        <li>🧩 Develop Components</li>
-        <li>🧪 Test & Optimize</li>
-        <li>🚀 Deploy</li>
+        <li>🧱 Define Architecture & Set Up Development Environment</li>
+        <li>🐍 Write Python Code for Web Scraping</li>
+        <li>📊 Analyze & Categorize Indexed Data</li>
+        <li>🎨 Create Wireframes & Design Mockups for Next.js App</li>
+        <li>📝 Develop Frontend Components & Connect to Indexed Data</li>
+        <li>🧪 Write Unit & Integration Tests</li>
+        <li>🚀 Prepare for Deployment & Optimize Performance (if applicable)</li>
+        <li>📚 Document Code & Write User Guides</li>
     </ol>
-    <h2>👥 User Stories</h2>
-    <ul>
-        <li>👂 As a listener, I want to explore various radio channels and podcasts.</li>
-        <li>📝 As a user, I want to comment and rate podcasts.</li>
-        <li>💾 As a subscriber, I want to save my favorite channels and podcasts.</li>
-    </ul>
     <h2>📁 File Structure</h2>
     <pre>
     📁 app
@@ -47,4 +58,6 @@
     📁 styles
     📁 tests
     </pre>
+    <h2>📚 Conclusion</h2>
+    <p>This project offers a valuable resource for radio and podcast enthusiasts, combining web scraping, data indexing, and web development. It's designed to be achievable by two fresh developers, focusing on free resources and tools suitable for an academic project.</p>
 </body>
