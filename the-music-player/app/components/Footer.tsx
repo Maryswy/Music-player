@@ -4,7 +4,7 @@ const Footer = () => {
       <div className="container mx-auto px-4">
         <div className="flex flex-wrap justify-between">
           <div className="w-full md:w-1/4 mb-4 md:mb-0">
-            <img src="/logo.png" alt="Internet Radio & Podcast Indexing Platform" width={180} height={37} />
+            <img src="/logo.svg" alt="Internet Radio & Podcast Indexing Platform" width={180} height={37} />
           </div>
           <div className="w-full md:w-1/2 mb-4 md:mb-0">
             <h3 className="text-lg font-semibold mb-2">About Us</h3>
